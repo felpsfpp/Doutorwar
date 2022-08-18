@@ -1,19 +1,22 @@
 ### Welcome to my profile
 
-- Currently learning Java and NodeJs
 - I have knowledge in HTML / CSS / Javascript / NodeJS
-</br>
+- Currently learning Java
 
-### Languages and Tools:
+### Languages:
 
-<img align="left" alt="Visual Studio" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
-<img align="left" alt="Visual Studio" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" /> 
 <img align="left" alt="ts" width="26px" src="https://i.imgur.com/vSgFULR.png" />
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="NodeJS" width="26px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /> 
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</br>
+
+### Tools:
+<img align="left" alt="Visual Studio" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
+<img align="left" alt="Visual Studio" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" />
 <img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" /> <br />
+
 
 ---
 
