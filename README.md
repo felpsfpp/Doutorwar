@@ -1,29 +1,76 @@
-### Welcome to my profile
+Hi 👋, I'm Felipe Pinheiro
+===
 
-- I have knowledge in HTML / CSS / Javascript / NodeJS
-- Currently learning Java
+### Backend Developer
 
-### Languages:
+* Currently learning Java
+---
 
-<img align="left" alt="TS" width="26px" src="https://i.imgur.com/vSgFULR.png" />
-<img align="left" alt="JS" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
-<img align="left" alt="NodeJS" width="26px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
-<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-</br>
+* 🌍 I was born in Rio de Janeiro 🇧🇷 and I live in Arraial do Cabo 🇧🇷
+* ✉️ You can contact me via [contatofelipep1@gmail.com](mailto:contatofelipep1@gmail.com)
+* 🧠 I'm studying java
+
+### Skills
+
+### Frontend:
+
+<p>
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    </a>
+    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    </a>
+</p>
+
+### Backend:
+
+<p>
+    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Java-5381a1?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+    </a>
+    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
+    </a>
+</p>
 
 ### Tools:
-<img align="left" alt="VS Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
-<img align="left" alt="Visual Studio" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" />
-<img align="left" alt="Photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" />
-</br>
+
+<p>
+    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Java" />
+    </a>
+    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/visual_studio-563D7C?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
+    </a>
+</p>
+
+### Sistemas Operacionais:
+
+<p>
+    <a href="https://www.microsoft.com/pt-br/windows/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows" />
+    </a>
+    </a>
+    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+    </a>
+    <a href="https://manjaro.org/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Manjaro-339933?style=for-the-badge&logo=manjaro&logoColor=white" alt="Manjaro"/>
+    </a>
+</p>
 
 ---
 
-### Statistics:
+### Badges:
 
 <a href="https://github.com/Doutorwar">
-<img align="center" width="48%" height="180" src="https://github-readme-stats.vercel.app/api?username=Doutorwar&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+<img align="center" width="48%" height="180" src="https://github-readme-stats.vercel.app/api?username=felpsfpp&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
 
-<img align="center" width="48%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doutorwar&count_private=true&layout=compact&theme=github_dark&langs_count=10" />
+<img align="center" width="48%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpsfpp&count_private=true&layout=compact&theme=github_dark&langs_count=10" />
 </a>
