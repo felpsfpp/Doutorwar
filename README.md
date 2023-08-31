@@ -1,14 +1,9 @@
 Hi 👋, I'm Felipe Pinheiro
 ===
 
-### Backend Developer
-
-* Currently learning Java
----
-
 * 🌍 I was born in Rio de Janeiro 🇧🇷 and I live in Arraial do Cabo 🇧🇷
 * ✉️ You can contact me via [contatofelipep1@gmail.com](mailto:contatofelipep1@gmail.com)
-* 🧠 I'm studying java
+* 🧠 Currently learning Java
 
 ### Skills
 
