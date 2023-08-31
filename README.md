@@ -50,6 +50,14 @@ Hi 👋, I'm Felipe Pinheiro
     <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/visual_studio-563D7C?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
     </a>
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/git-E34F26?style=for-the-badge&logo=git&logoColor=white" 
+alt="Git"/>
+    </a>
+      <a href="https://github.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/GitHub-1572B6?style=for-the-badge&logo=github&logoColor=white" 
+alt="GitHub" />
+    </a>
 </p>
 
 ### Sistemas Operacionais:
