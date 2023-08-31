@@ -79,8 +79,5 @@ alt="GitHub" />
 
 ### Badges:
 
-<a href="https://github.com/Doutorwar">
-<img align="center" width="48%" height="180" src="https://github-readme-stats.vercel.app/api?username=felpsfpp&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-
 <img align="center" width="48%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpsfpp&count_private=true&layout=compact&theme=github_dark&langs_count=10" />
 </a>
