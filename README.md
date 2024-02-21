@@ -1,4 +1,4 @@
-Hi 👋, I'm Felipe Pinheiro
+Olá! 👋, Eu sou o Felipe Pinheiro
 ===
 
 <p align="center">
@@ -8,11 +8,10 @@ Hi 👋, I'm Felipe Pinheiro
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc?username=felpsfpp&style=for-the-badge"/></a>
 </p>
 
-* 🌍 I was born in Rio de Janeiro 🇧🇷 and I live in Arraial do Cabo 🇧🇷
-* ✉️ You can contact me via [contatofelipep1@gmail.com](mailto:contatofelipep1@gmail.com)
-* 🧠 Currently learning Java
+* 🧠 Estou estudando Java
+* ⚡ Estou cursando Sistemas de Informação
 
-### Skills
+### Tecnologias e Ferramentas
 
 ### Frontend:
 
@@ -41,7 +40,7 @@ Hi 👋, I'm Felipe Pinheiro
     </a>
 </p>
 
-### Tools:
+### Ferramentas:
 
 <p>
     <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
@@ -57,21 +56,6 @@ alt="Git"/>
       <a href="https://github.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/GitHub-1572B6?style=for-the-badge&logo=github&logoColor=white" 
 alt="GitHub" />
-    </a>
-</p>
-
-### Sistemas Operacionais:
-
-<p>
-    <a href="https://www.microsoft.com/pt-br/windows/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows" />
-    </a>
-    </a>
-    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-    </a>
-    <a href="https://manjaro.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Manjaro-339933?style=for-the-badge&logo=manjaro&logoColor=white" alt="Manjaro"/>
     </a>
 </p>
 
