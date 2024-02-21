@@ -1,12 +1,4 @@
-Olá! 👋, Eu sou o Felipe Pinheiro
-===
-
-<p align="center">
-  <a href="https://github.com/felpsfpp?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/felpsfpp?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/felpsfpp">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc?username=felpsfpp&style=for-the-badge"/></a>
-</p>
+### Olá! 👋, Eu sou o Felipe Pinheiro
 
 * 🧠 Estou estudando Java
 * ⚡ Estou cursando Sistemas de Informação
@@ -60,8 +52,6 @@ alt="GitHub" />
 </p>
 
 ---
-
-### Badges:
 
 <div align="center">
   <a href="https://github.com/felpsfpp">
