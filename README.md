@@ -3,53 +3,22 @@
 * 🧠 Estou estudando Java
 * ⚡ Estou cursando Sistemas de Informação
 
-### Tecnologias e Ferramentas
+### Habilidades:
 
-### Frontend:
-
-<p>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    </a>
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    </a>
-</p>
-
-### Backend:
-
-<p>
-    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Java-5381a1?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-    </a>
-    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
-    </a>
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Ferramentas:
 
-<p>
-    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Java" />
-    </a>
-    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/visual_studio-563D7C?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
-    </a>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/git-E34F26?style=for-the-badge&logo=git&logoColor=white" 
-alt="Git"/>
-    </a>
-      <a href="https://github.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/GitHub-1572B6?style=for-the-badge&logo=github&logoColor=white" 
-alt="GitHub" />
-    </a>
-</p>
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 ---
 
@@ -59,3 +28,6 @@ alt="GitHub" />
   <img width="44%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpsfpp&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+### Conecte-se comigo:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-p/)
